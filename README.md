@@ -1,19 +1,25 @@
 # Hi, Jakrawut Sainate (BiG) 👋
 
-### 🚀 Full-Stack Architect | Cloud-Native Specialist | AI-Augmented Engineer
+### 🚀 Senior Full-Stack Architect | Cloud & AI-Augmented Engineer
 
-I am a results-driven **Software Architect** focused on building high-performance, scalable, and secure enterprise applications. I specialize in **Clean Architecture** and **Cloud Infrastructure**, bridging the gap between sophisticated UI and robust backend systems.
+I am a high-performance **Software Architect** specializing in building scalable, cloud-native applications. I bridge the gap between sophisticated UI and robust, secure infrastructure using **Clean Architecture** and modern **AI-driven development** workflows.
 
 ---
 
-### 🛠 Tech Stack & Expertise
+### 🛠 Technical Ecosystem
 
-#### 💻 Frontend & Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🤖 AI-Powered Workflow (Advanced Efficiency)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75E9?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+#### 🌐 Frontend & Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -32,25 +38,25 @@ I am a results-driven **Software Architect** focused on building high-performanc
 ---
 
 ### 🔥 Featured Achievement: Albaly Insights Dashboard
-[cite_start]**A Production-Ready Business Intelligence Ecosystem [cite: 2, 6]**
+**A Production-Ready Business Intelligence & E-commerce Ecosystem**
 
-* [cite_start]**Enterprise Architecture**: Built using strict **Clean Architecture** patterns (UI -> Service -> Data Layer).
-* **Scalable Infrastructure**: Deployed on **Kubernetes** with PersistentVolumeClaim (PVC) and Secrets for industrial-grade reliability.
-* [cite_start]**RBAC Security**: Engineered complex **Role-Based Access Control** for Admin and Viewer roles[cite: 105, 157].
-* [cite_start]**Real-time Analytics**: Derived metrics from persistent PostgreSQL aggregations, featuring a live Storefront Simulation[cite: 15, 28, 153].
+* [cite_start]**Architecture**: Designed with strict **Clean Architecture** principles (Layered: UI → Service → Data Layer)[cite: 101, 103].
+* [cite_start]**Infrastructure**: Fully orchestrated on **Kubernetes** with PersistentVolumeClaim (PVC) for data resilience and secure Secrets management[cite: 89].
+* [cite_start]**Security & RBAC**: Implemented enterprise-grade **Role-Based Access Control** for Admin and Viewer roles[cite: 157].
+* [cite_start]**Live Simulation**: Integrated a real-time Storefront Simulation where user purchases update Dashboard KPIs via PostgreSQL aggregations[cite: 28, 131].
 
 ---
 
 ### 💼 Professional Impact
 
-* **Cloud Expert**: Deep experience in managing **AWS** and **DigitalOcean** environments, including Nginx, SSL, and Domain Management.
-* **System Integrity**: Proven track record in complex Database Migrations (Bank of Thailand) and maintaining high-availability systems like **Alphalinkz**.
-* **AI Efficiency**: High proficiency in **Cursor**, **Claude Code**, and **Google Gemini** for rapid, high-quality software development.
+* **Cloud & Server Management**: Deep expertise in **AWS** and **DigitalOcean** (Nginx, SSL, Domain Management).
+* **Database & Legacy Migration**: Proven experience in complex Database Migrations (e.g., Bank of Thailand) and maintaining high-security systems like **Alphalinkz**.
+* **AI Productivity**: Expert at leveraging **Cursor** and **Claude Code** to accelerate development speed by 3x while maintaining code quality.
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakrawutSainate&show_icons=true&theme=tokyonight)
+![Jakrawut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakrawutSainate&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakrawutSainate&layout=compact&theme=tokyonight)
 
 ---
