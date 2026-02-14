@@ -47,9 +47,9 @@ As a developer who loves DevOps, I didn't just write the code; I built the infra
 * **System Maintenance**: Proven experience in migrating databases (e.g., Bank of Thailand) and debugging complex integrations like OAuth and PDF services for enterprise projects.
 ---
 ### 📊 My GitHub Stats
-![Jakrawut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakrawutSainate&show_icons=true&theme=tokyonight)
+![Jakrawut's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JakrawutSainate&theme=tokyonight&hide_border=true)
 ### 📊 My GitHub Stats
-![Jakrawut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakrawutSainate&show_icons=true&theme=tokyonight)
+![Jakrawut's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakrawutSainate&theme=tokyonight)
 ---
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakrawut-sainate-852b94312/)
