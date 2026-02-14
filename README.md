@@ -41,11 +41,6 @@ As a developer who loves DevOps, I didn't just write the code; I built the infra
 * **Data Layer**: Modeled complex relational data with Prisma & PostgreSQL, handling realistic aggregations. 
 * **Infrastructure**: Wrote Kubernetes Manifests (Deployments, Services, PVCs) to ensure the system is production-ready and scalable.
 ---
-### 💼 What I Bring to the Table
-* **Infrastructure-Aware Coding**: I develop software (whether it's TS, Python, or C#) with server performance, containerization, and deployment pipelines in mind.
-* **Server Setup & Management**: Hands-on experience spinning up **Linux** environments, configuring **Nginx / Nginx UI** for reverse proxying, and managing SSL.
-* **System Maintenance**: Proven experience in migrating databases (e.g., Bank of Thailand) and debugging complex integrations like OAuth and PDF services for enterprise projects.
----
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakrawut-sainate-852b94312/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bigbigna1@hotmail.com)
