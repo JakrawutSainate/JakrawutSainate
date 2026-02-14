@@ -46,11 +46,6 @@ As a developer who loves DevOps, I didn't just write the code; I built the infra
 * **Server Setup & Management**: Hands-on experience spinning up **Linux** environments, configuring **Nginx / Nginx UI** for reverse proxying, and managing SSL.
 * **System Maintenance**: Proven experience in migrating databases (e.g., Bank of Thailand) and debugging complex integrations like OAuth and PDF services for enterprise projects.
 ---
-### 📊 My GitHub Stats
-![Jakrawut's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JakrawutSainate&theme=tokyonight&hide_border=true)
-### 📊 My GitHub Stats
-![Jakrawut's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakrawutSainate&theme=tokyonight)
----
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakrawut-sainate-852b94312/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bigbigna1@hotmail.com)
